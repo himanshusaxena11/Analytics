@@ -35,6 +35,7 @@ manufacturing_cost: Product manufacturing costs by year.
 Data modeling is the foundation stone for any successful Power BI project.Snowflake schema is taken into account to optimize performance.If data modelling is
 not done properly then it will significantly affect report performance so relationships and cardinality are given special focus.
 
+
 ## Tools Used
 * Business Intelligence (BI)
 
@@ -59,22 +60,22 @@ not done properly then it will significantly affect report performance so relati
 ## Features:
 
 Home View: A landing page with buttons for navigation to different views
-![image alt](https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012.pdf)
+https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012.pdf
 
 Finance View: Show profit & loss statement to understand the financial performance across markets, products and customers
-![image alt](https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(2).pdf)
+https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(2).pdf
 
 Sales View: Analyze the customer performance like net sales and gross margin with dynamic charts and filters
-![image alt](https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(1).pdf)
+https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(1).pdf
 
 Marketing View: Evaluates product performance and maps profitability and growth potential
-![image alt](https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(3).pdf)
+https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(3).pdf
 
 Supply Chain View: Analyze forecast accuracy and net error metrics
-![image alt](https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(4).pdf)
+https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(4).pdf
 
 Executive View: A top-level dashboard consolidating insights for executives
-![image alt](https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(5).pdf)
+https://github.com/himanshusaxena11/Analytics/blob/3017767595a83dd88b7f3c9417c0d9986bb886aa/chapter-7-bi360%2012%20(5).pdf
 
 ## Key Business Concepts Learned
 This project also deepened my understanding of several key business terms, such as:
